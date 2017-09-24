@@ -35,8 +35,15 @@ sfdx force:user:permset:assign -n Geolocation
 _Note : Geolocation = permission set._
 
 __Pull Changes__
+
 ```javascript
 sfdx force:source:pull
+```
+
+__Push Changes__
+
+```
+sfdx force:source:push
 ```
 
 ### Export and Import
@@ -52,4 +59,14 @@ __Import Data__
 sfdx force:data:tree:import --sobjecttreefiles data/Account.json
 ```
 
+__Create Apex Class__
+
+```
+sfdx force:apex:class:create -n AccountController -d force-app/main/default/classes
+```
+
+__Create Lightning Component
+```
+sfdx force:lightning:component:create -n AccountLocator -d force-app/main/default/aura
+```
 
