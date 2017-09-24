@@ -7,21 +7,30 @@ This is intended to be used as a quick reference of Salesforce DX CI commands.
 
 __Create project__
 
-``` sfdx force:project:create -n geolocation```
+```javascript
+sfdx force:project:create -n geolocation
+```
 
 __Create scratch org__
 
-```sfdx force:org:create -s -f config/project-scratch-def.json -a GeoAppScratch```
+```javascript
+sfdx force:org:create -s -f config/project-scratch-def.json -a GeoAppScratch
+```
+
 _Note : Navigate to project directory first._
 
 __Open scratch org__
 
-```sfdx force:org:open```
+```javascript
+sfdx force:org:open
+```
 
 
 __Assign permission set__
 
-```sfdx force:user:permset:assign -n Geolocation```
+```javascript
+sfdx force:user:permset:assign -n Geolocation
+```
 
 _Note : Geolocation = permission set._
 
@@ -34,11 +43,13 @@ sfdx force:source:pull
 __Export Data__
 
 ```javascript
-sfdx force:data:tree:export -q "SELECT Name, Location__Latitude__s, Location__Longitude__s FROM Account WHERE Location__Latitude__s != NULL AND Location__Longitude__s != NULL" -d ./data```
+sfdx force:data:tree:export -q "SELECT Name, Location__Latitude__s, Location__Longitude__s FROM Account WHERE Location__Latitude__s != NULL AND Location__Longitude__s != NULL" -d ./data
+```
 
 __Import Data__
 
 ```javascript 
-sfdx force:data:tree:import --sobjecttreefiles data/Account.json```
+sfdx force:data:tree:import --sobjecttreefiles data/Account.json
+```
 
 
