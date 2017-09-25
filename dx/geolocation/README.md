@@ -30,8 +30,9 @@ sfdx force:org:list --verbose --json
 sfdx force:org:list --verbose --json > tmp/MyOrgList.json
 ```
 Options:
-|sdafasdf             |                       sdfadsfa|
-| ------------------- | ----------------------------- |
+
+| Option            | Description                       |
+| ------------------- | ---------------------------------- |
  |-p, --noprompt      | do not prompt for confirmation|
  |--all               | include expired, deleted, and unknown-status scratch orgs|
  |--clean             | remove all local org authorizations for non-active orgs |
