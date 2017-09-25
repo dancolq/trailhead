@@ -11,11 +11,39 @@ __Create project__
 sfdx force:project:create -n geolocation
 ```
 
+###force:org
 __Create scratch org__
 
 ```javascript
 sfdx force:org:create -s -f config/project-scratch-def.json -a GeoAppScratch
 ```
+
+__Mark a scractch org for deletion__
+```javascript
+sfdx force:org:delete -u me@my.org
+```
+__List all active orgs you've created or authenticated to__
+Examples:
+```javascript
+sfdx force:org:list
+sfdx force:org:list --verbose --json
+sfdx force:org:list --verbose --json > tmp/MyOrgList.json
+```
+Options:
+|sdafasdf             |                       sdfadsfa|
+| ------------------- | ----------------------------- |
+ |-p, --noprompt      | do not prompt for confirmation|
+ |--all               | include expired, deleted, and unknown-status scratch orgs|
+ |--clean             | remove all local org authorizations for non-active orgs |
+ |--json              | format output as json|
+ |--loglevel LOGLEVEL | logging level for this command invocation (error*,trace,debug,info,warn,fatal)|
+
+__Get org description__
+```javascript
+sfdx force:org:delete -u me@my.org
+```
+
+
 
 _Note : Navigate to project directory first._
 
