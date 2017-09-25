@@ -69,3 +69,8 @@ __Create Lightning Component__
 sfdx force:lightning:component:create -n AccountLocator -d force-app/main/default/aura
 ```
 
+__Create Lightning Event__
+```
+sfdx force:lightning:event:create -n AccountsLoaded -d force-app/main/default/aura
+```
+
