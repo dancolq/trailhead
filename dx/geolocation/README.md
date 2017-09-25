@@ -46,7 +46,6 @@ __Push Changes__
 sfdx force:source:push
 ```
 
-### Export and Import
 __Export Data__
 
 ```javascript
@@ -65,7 +64,7 @@ __Create Apex Class__
 sfdx force:apex:class:create -n AccountController -d force-app/main/default/classes
 ```
 
-__Create Lightning Component
+__Create Lightning Component__
 ```
 sfdx force:lightning:component:create -n AccountLocator -d force-app/main/default/aura
 ```
