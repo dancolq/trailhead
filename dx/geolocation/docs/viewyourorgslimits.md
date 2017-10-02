@@ -3,5 +3,5 @@
 
 
 ``` sfdx force:limits:api:display```   
- [display current org’s limits](./viewyourorgslimits)
+ [display current org’s limits](./viewyourorgslimits.md)
 

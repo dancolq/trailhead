@@ -3,9 +3,8 @@
 
 
 ``` sfdx force:doc:commands:display```   
- [display help for force commands](./displayhelpforforcecommands)
+ [display help for force commands](./displayhelpforforcecommands.md)
 
 ``` sfdx force:doc:commands:list```   
- [list the force commands](./displayhelpforforcecommands)
+ [list the force commands](./displayhelpforforcecommands.md)
 
-al)
