@@ -2,9 +2,9 @@
 
 
 
-``` sfdx force:schema:sobject:describe```   
- [describe an object](./viewstandardandcustomobjects.md)
+``` sfdx force:schema:sobject:describe ```   
+ [describe an object](./describeanobject.md)
 
-``` sfdx force:schema:sobject:list```   
- [list all objects of a type](./viewstandardandcustomobjects.md)
+``` sfdx force:schema:sobject:list ```   
+ [list all objects of a type](./listallobjectsofatype.md)
 

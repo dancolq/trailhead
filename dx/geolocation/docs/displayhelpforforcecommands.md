@@ -1,10 +1,10 @@
 ## Display Help For Force Commands
 
+Displays help for force commands.
 
 
-``` sfdx force:doc:commands:display```   
- [display help for force commands](./displayhelpforforcecommands.md)
 
-``` sfdx force:doc:commands:list```   
- [list the force commands](./displayhelpforforcecommands.md)
-
+Option | Description
+--- | --- 
+```--json``` | format output as json
+```--loglevel LOGLEVEL``` | logging level for this command invocation (error*,trace,debug,info,warn,fatal)
