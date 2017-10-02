@@ -1,6 +1,7 @@
 # Salesforce DX Cheatsheet
 
-This is intended to be used as a quick reference of Salesforce DX CI commands.  
+This is intended to be used as a quick reference of Salesforce DX CI commands.
+[Click  here for full documentation](docs/SalesforceDXCommandLineHelp.md)
 
 
 ## force:project
