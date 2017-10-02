@@ -2,9 +2,11 @@
 
 
 
-``` sfdx force:alias:list ```   
- [list username aliases for sfdx](./listusernamealiasesforsfdx.md)
+## [list username aliases for sfdx](./listusernamealiasesforsfdx.md)
 
-``` sfdx force:alias:set ```   
- [set username aliases for sfdx](./setusernamealiasesforsfdx.md)
+ ``` sfdx force:alias:list ```  
+
+## [set username aliases for sfdx](./setusernamealiasesforsfdx.md)
+
+ ``` sfdx force:alias:set ```  
 

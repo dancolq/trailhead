@@ -2,6 +2,7 @@
 
 
 
-``` sfdx force:limits:api:display ```   
- [display current org’s limits](./displaycurrentorgslimits.md)
+## [display current org’s limits](./displaycurrentorgslimits.md)
+
+ ``` sfdx force:limits:api:display ```  
 

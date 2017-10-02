@@ -1,56 +1,74 @@
 ## Salesforce Dx Command Line Help
 
-``` sfdx force:alias ```   
- [manage username aliases](./manageusernamealiases.md)
+## [manage username aliases](./manageusernamealiases.md)
 
-``` sfdx force:apex ```   
- [work with apex code](./workwithapexcode.md)
+ ``` sfdx force:alias ```  
 
-``` sfdx force:auth ```   
- [authorize an org for use with the cli](./authorizeanorgforusewiththecli.md)
+## [work with apex code](./workwithapexcode.md)
 
-``` sfdx force:config ```   
- [configure the salesforce cli](./configurethesalesforcecli.md)
+ ``` sfdx force:apex ```  
 
-``` sfdx force:data ```   
- [manipulate records in your org](./manipulaterecordsinyourorg.md)
+## [authorize an org for use with the cli](./authorizeanorgforusewiththecli.md)
 
-``` sfdx force:doc ```   
- [display help for force commands](./displayhelpforforcecommands.md)
+ ``` sfdx force:auth ```  
 
-``` sfdx force:lightning ```   
- [create and test lightning bundles](./createandtestlightningbundles.md)
+## [configure the salesforce cli](./configurethesalesforcecli.md)
 
-``` sfdx force:limits ```   
- [view your org’s limits](./viewyourorgslimits.md)
+ ``` sfdx force:config ```  
 
-``` sfdx force:mdapi ```   
- [retrieve and deploy metadata using metadata api](./retrieveanddeploymetadatausingmetadataapi.md)
+## [manipulate records in your org](./manipulaterecordsinyourorg.md)
 
-``` sfdx force:org ```   
- [manage your sfdx orgs](./manageyoursfdxorgs.md)
+ ``` sfdx force:data ```  
 
-``` sfdx force:package ```   
- [install managed and unmanaged packages](./installmanagedandunmanagedpackages.md)
+## [display help for force commands](./displayhelpforforcecommands.md)
 
-``` sfdx force:package1 ```   
- [work with managed and unmanaged packages](./workwithmanagedandunmanagedpackages.md)
+ ``` sfdx force:doc ```  
 
-``` sfdx force:package2 ```   
- [work with second-generation packages](./workwithsecondgenerationpackages.md)
+## [create and test lightning bundles](./createandtestlightningbundles.md)
 
-``` sfdx force:project ```   
- [set up a project](./setupaproject.md)
+ ``` sfdx force:lightning ```  
 
-``` sfdx force:schema ```   
- [view standard and custom objects](./viewstandardandcustomobjects.md)
+## [view your org’s limits](./viewyourorgslimits.md)
 
-``` sfdx force:source ```   
- [sync your project with your orgs](./syncyourprojectwithyourorgs.md)
+ ``` sfdx force:limits ```  
 
-``` sfdx force:user ```   
- [perform user-related admin tasks](./performuserrelatedadmintasks.md)
+## [retrieve and deploy metadata using metadata api](./retrieveanddeploymetadatausingmetadataapi.md)
 
-``` sfdx force:visualforce ```   
- [create and edit visualforce files](./createandeditvisualforcefiles.md)
+ ``` sfdx force:mdapi ```  
+
+## [manage your sfdx orgs](./manageyoursfdxorgs.md)
+
+ ``` sfdx force:org ```  
+
+## [install managed and unmanaged packages](./installmanagedandunmanagedpackages.md)
+
+ ``` sfdx force:package ```  
+
+## [work with managed and unmanaged packages](./workwithmanagedandunmanagedpackages.md)
+
+ ``` sfdx force:package1 ```  
+
+## [work with second-generation packages](./workwithsecondgenerationpackages.md)
+
+ ``` sfdx force:package2 ```  
+
+## [set up a project](./setupaproject.md)
+
+ ``` sfdx force:project ```  
+
+## [view standard and custom objects](./viewstandardandcustomobjects.md)
+
+ ``` sfdx force:schema ```  
+
+## [sync your project with your orgs](./syncyourprojectwithyourorgs.md)
+
+ ``` sfdx force:source ```  
+
+## [perform user-related admin tasks](./performuserrelatedadmintasks.md)
+
+ ``` sfdx force:user ```  
+
+## [create and edit visualforce files](./createandeditvisualforcefiles.md)
+
+ ``` sfdx force:visualforce ```  
 

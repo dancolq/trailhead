@@ -2,9 +2,11 @@
 
 
 
-``` sfdx force:visualforce:component:create ```   
- [create a visualforce component](./createavisualforcecomponent.md)
+## [create a visualforce component](./createavisualforcecomponent.md)
 
-``` sfdx force:visualforce:page:create ```   
- [create a visualforce page](./createavisualforcepage.md)
+ ``` sfdx force:visualforce:component:create ```  
+
+## [create a visualforce page](./createavisualforcepage.md)
+
+ ``` sfdx force:visualforce:page:create ```  
 

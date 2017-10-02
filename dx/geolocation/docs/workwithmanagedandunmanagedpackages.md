@@ -2,15 +2,19 @@
 
 
 
-``` sfdx force:package1:version:create ```   
- [create a new package version in the release org](./createanewpackageversioninthereleaseorg.md)
+## [create a new package version in the release org](./createanewpackageversioninthereleaseorg.md)
 
-``` sfdx force:package1:version:create:get ```   
- [retrieve status of package upload request](./retrievestatusofpackageuploadrequest.md)
+ ``` sfdx force:package1:version:create ```  
 
-``` sfdx force:package1:version:display ```   
- [display details about a package version](./displaydetailsaboutapackageversion.md)
+## [retrieve status of package upload request](./retrievestatusofpackageuploadrequest.md)
 
-``` sfdx force:package1:version:list ```   
- [list package versions for the specified package or for the org](./listpackageversionsforthespecifiedpackageorfortheorg.md)
+ ``` sfdx force:package1:version:create:get ```  
+
+## [display details about a package version](./displaydetailsaboutapackageversion.md)
+
+ ``` sfdx force:package1:version:display ```  
+
+## [list package versions for the specified package or for the org](./listpackageversionsforthespecifiedpackageorfortheorg.md)
+
+ ``` sfdx force:package1:version:list ```  
 
