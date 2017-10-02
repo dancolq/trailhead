@@ -3,8 +3,8 @@
 
 
 ``` sfdx force:project:create```   
- [create a new SFDX project](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\setupaproject.md)
+ [create a new SFDX project](/setupaproject)
 
 ``` sfdx force:project:upgrade```   
- [update project config files to the latest format](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\setupaproject.md)
+ [update project config files to the latest format](/setupaproject)
 

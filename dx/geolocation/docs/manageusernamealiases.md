@@ -3,8 +3,8 @@
 
 
 ``` sfdx force:alias:list```   
- [list username aliases for sfdx](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\manageusernamealiases.md)
+ [list username aliases for sfdx](/manageusernamealiases)
 
 ``` sfdx force:alias:set```   
- [set username aliases for sfdx](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\manageusernamealiases.md)
+ [set username aliases for sfdx](/manageusernamealiases)
 

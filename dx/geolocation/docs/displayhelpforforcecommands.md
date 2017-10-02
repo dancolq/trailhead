@@ -3,8 +3,9 @@
 
 
 ``` sfdx force:doc:commands:display```   
- [display help for force commands](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\displayhelpforforcecommands.md)
+ [display help for force commands](/displayhelpforforcecommands)
 
 ``` sfdx force:doc:commands:list```   
- [list the force commands](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\displayhelpforforcecommands.md)
+ [list the force commands](/displayhelpforforcecommands)
 
+atal)

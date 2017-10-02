@@ -3,11 +3,11 @@
 
 
 ``` sfdx force:config:get```   
- [get config var value(s) for given name(s)](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\configurethesalesforcecli.md)
+ [get config var value(s) for given name(s)](/configurethesalesforcecli)
 
 ``` sfdx force:config:list```   
- [list config vars for sfdx](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\configurethesalesforcecli.md)
+ [list config vars for sfdx](/configurethesalesforcecli)
 
 ``` sfdx force:config:set```   
- [set config vars for sfdx](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\configurethesalesforcecli.md)
+ [set config vars for sfdx](/configurethesalesforcecli)
 

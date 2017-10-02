@@ -3,17 +3,17 @@
 
 
 ``` sfdx force:org:create```   
- [create a scratch org](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\manageyoursfdxorgs.md)
+ [create a scratch org](/manageyoursfdxorgs)
 
 ``` sfdx force:org:delete```   
- [mark a scratch org for deletion](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\manageyoursfdxorgs.md)
+ [mark a scratch org for deletion](/manageyoursfdxorgs)
 
 ``` sfdx force:org:display```   
- [get org description](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\manageyoursfdxorgs.md)
+ [get org description](/manageyoursfdxorgs)
 
 ``` sfdx force:org:list```   
- [list all active orgs you’ve created or authenticated to](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\manageyoursfdxorgs.md)
+ [list all active orgs you’ve created or authenticated to](/manageyoursfdxorgs)
 
 ``` sfdx force:org:open```   
- [open an org in your browser](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\manageyoursfdxorgs.md)
+ [open an org in your browser](/manageyoursfdxorgs)
 

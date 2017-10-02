@@ -3,8 +3,8 @@
 
 
 ``` sfdx force:schema:sobject:describe```   
- [describe an object](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\viewstandardandcustomobjects.md)
+ [describe an object](/viewstandardandcustomobjects)
 
 ``` sfdx force:schema:sobject:list```   
- [list all objects of a type](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\viewstandardandcustomobjects.md)
+ [list all objects of a type](/viewstandardandcustomobjects)
 

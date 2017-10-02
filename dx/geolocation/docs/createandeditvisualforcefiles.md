@@ -3,8 +3,8 @@
 
 
 ``` sfdx force:visualforce:component:create```   
- [create a visualforce component](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\createandeditvisualforcefiles.md)
+ [create a visualforce component](/createandeditvisualforcefiles)
 
 ``` sfdx force:visualforce:page:create```   
- [create a visualforce page](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\createandeditvisualforcefiles.md)
+ [create a visualforce page](/createandeditvisualforcefiles)
 

@@ -3,8 +3,8 @@
 
 
 ``` sfdx force:user:password:generate```   
- [generate a password for a scratch org](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\performuserrelatedadmintasks.md)
+ [generate a password for a scratch org](/performuserrelatedadmintasks)
 
 ``` sfdx force:user:permset:assign```   
- [assign a permission set to the admin user of an org](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\performuserrelatedadmintasks.md)
+ [assign a permission set to the admin user of an org](/performuserrelatedadmintasks)
 

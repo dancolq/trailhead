@@ -3,8 +3,8 @@
 
 
 ``` sfdx force:package:install```   
- [install a package in the target org](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\installmanagedandunmanagedpackages.md)
+ [install a package in the target org](/installmanagedandunmanagedpackages)
 
 ``` sfdx force:package:install:get```   
- [retrieve status of package install request](/docsC:\Users\dancolq\Documents\sfdxDocs\app\docs\installmanagedandunmanagedpackages.md)
+ [retrieve status of package install request](/installmanagedandunmanagedpackages)
 
