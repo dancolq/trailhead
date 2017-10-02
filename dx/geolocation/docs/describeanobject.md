@@ -12,8 +12,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:schema:sobject:describe -s Account
 
 $ sfdx force:schema:sobject:describe -s MyObject__c
 
+```
 

@@ -19,10 +19,12 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:org:create -f config/enterprise-scratch-def.json -a TestOrg1
 
 $ sfdx force:org:create -a MyDevOrg -s -v me@myhub.org edition=Developer
 
 $ sfdx force:org:create -f config/enterprise-scratch-def.json -a OrgWithOverrides username=testuser1@mycompany.org
 
+```
 

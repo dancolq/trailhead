@@ -18,8 +18,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:lightning:app:create -n myapp
 
 $ sfdx force:lightning:app:create -n myapp -d lightning
 
+```
 

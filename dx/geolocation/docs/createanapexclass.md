@@ -18,8 +18,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:apex:class:create -n MyClass
 
 $ sfdx force:apex:class:create -n MyClass -d classes
 
+```
 

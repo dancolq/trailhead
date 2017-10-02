@@ -19,10 +19,12 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:config:get defaultusername
 
 $ sfdx force:config:get defaultusername defaultdevhubusername instanceUrl
 
 $ sfdx force:config:get defaultusername defaultdevhubusername --verbose
 
+```
 

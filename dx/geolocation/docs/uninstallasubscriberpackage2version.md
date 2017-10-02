@@ -16,8 +16,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:package2:version:uninstall --subscriberpackage2versionid 04t...
 
 $ sfdx force:package2:version:uninstall -i 04t... -u <username of target org>
 
+```
 

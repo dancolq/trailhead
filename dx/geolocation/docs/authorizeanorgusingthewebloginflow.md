@@ -17,10 +17,12 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:auth:web:login -a TestOrg1
 
 $ sfdx force:auth:web:login -i <oauth client id>
 
 $ sfdx force:auth:web:login -r https://test.salesforce.com
 
+```
 

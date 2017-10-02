@@ -15,8 +15,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:lightning:test:create -n MyLightningTest
 
 $ sfdx force:lightning:test:create -n MyLightningTest -d lightningTests
 
+```
 

@@ -22,6 +22,7 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:apex:test:run
 
 $ sfdx force:apex:test:run -n MyClassTest,MyOtherClassTest -r human
@@ -30,4 +31,5 @@ $ sfdx force:apex:test:run -s MySuite,MyOtherSuite -c --json
 
 $ sfdx force:apex:test:run -l RunLocalTests -d <path to outputdir> -u me@my.org
 
+```
 

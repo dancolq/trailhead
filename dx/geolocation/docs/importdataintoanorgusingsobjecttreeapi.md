@@ -17,6 +17,7 @@ Option | Description
 
 __Exmples:__ 
 
+```
 To generate JSON files for use with force:data:tree:import, run "sfdx force:data:tree:export".
 
 $ sfdx force:data:tree:import -p data/accounts-contacts-plan.json -u me@my.org
@@ -25,4 +26,5 @@ $ sfdx force:data:tree:import -f data/accounts-only.json data/contacts-only-1.js
 
 $ sfdx force:data:tree:import -p ./test/data/accounts-contacts-plan.json
 
+```
 

@@ -16,8 +16,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:package:install -i 04t6A0000004eytQAA
 
 $ sfdx force:package:install -i 04t6A0000004eytQAA -u me@my.org
 
+```
 

@@ -15,8 +15,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $   sfdx force:project:upgrade
 
 $   sfdx force:project:upgrade -f
 
+```
 

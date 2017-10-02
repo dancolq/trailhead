@@ -18,8 +18,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:lightning:component:create -n mycomponent
 
 $ sfdx force:lightning:component:create -n mycomponent -d lightning
 
+```
 

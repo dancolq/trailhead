@@ -19,6 +19,7 @@ Option | Description
 
 __Exmples:__ 
 
+```
 To get information about a specific request, run "sfdx force:package2:version:create:get" and supply the request ID.
 
 $ sfdx force:package2:version:create:list
@@ -31,4 +32,5 @@ $ sfdx force:package2:version:create:list -s InProgress
 
 $ sfdx force:package2:version:create:list -c 3 -s Success
 
+```
 

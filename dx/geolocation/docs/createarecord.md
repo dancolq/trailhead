@@ -19,10 +19,12 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:data:record:create -s Account -v "Name=Acme"
 
 $ sfdx force:data:record:create -s Account -v "Name='Universal Containers'"
 
 $ sfdx force:data:record:create -s Account -v "Name='Universal Containers' Website=www.example.com"
 
+```
 

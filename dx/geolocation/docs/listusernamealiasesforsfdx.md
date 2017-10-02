@@ -12,6 +12,8 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:alias:list
 
+```
 

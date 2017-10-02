@@ -24,8 +24,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:apex:execute -f ~/test.apex
 
 $ sfdx force:apex:execute
 
+```
 

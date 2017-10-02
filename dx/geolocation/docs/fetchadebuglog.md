@@ -14,10 +14,12 @@ Option | Description
 
 __Exmples:__ 
 
+```
 When you execute this command in a project, it fetches the specified log from your default scratch org.To get the IDs for your debug logs, run "sfdx force:apex:log:list".
 
 $ sfdx force:apex:log:get -i <log id>
 
 $ sfdx force:apex:log:get -i <log id> -u me@my.org
 
+```
 

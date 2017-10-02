@@ -16,6 +16,8 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:package2:version:create:get --package2createrequestid 08c...
 
+```
 

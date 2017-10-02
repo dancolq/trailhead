@@ -18,8 +18,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:package2:create --name PackageName --namespace MyNamespace --description 'My New Package'
 
 Run 'sfdx force:package2:list' to list all package2 packages in the dev hub org.
 
+```
 

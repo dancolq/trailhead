@@ -18,8 +18,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:package2:version:install --subscriberpackage2versionid 04t...
 
 $ sfdx force:package2:version:install -i 04t... -u <username of target org>
 
+```
 

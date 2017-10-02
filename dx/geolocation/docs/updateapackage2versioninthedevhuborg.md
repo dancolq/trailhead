@@ -21,8 +21,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:package2:version:update --package2versionid 05i... --setasreleased
 
 $ sfdx force:package2:version:update --i 05i... -b master -t 'Release 1.0.7'
 
+```
 

@@ -13,8 +13,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:limits:api:display
 
 $ sfdx force:limits:api:display -u me@my.org
 
+```
 

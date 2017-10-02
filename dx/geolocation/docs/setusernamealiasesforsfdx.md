@@ -14,6 +14,7 @@ Option | Description
 
 __Exmples:__ 
 
+```
 To delete an alias, run "sfdx force:alias:set" with no username.
 
 $ sfdx force:alias:set DefaultOrg=me@my.org
@@ -22,4 +23,5 @@ $ sfdx force:alias:set DefaultOrg=me@my.org DevHubOrg=me@myhub.org
 
 $ sfdx force:alias:set AliasToDelete=
 
+```
 

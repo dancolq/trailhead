@@ -12,10 +12,12 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:schema:sobject:list -c all
 
 $ sfdx force:schema:sobject:list -c custom
 
 $ sfdx force:schema:sobject:list -c standard
 
+```
 

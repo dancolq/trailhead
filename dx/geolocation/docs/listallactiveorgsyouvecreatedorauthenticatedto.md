@@ -13,10 +13,12 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:org:list
 
 $ sfdx force:org:list --verbose --json
 
 $ sfdx force:org:list --verbose --json > tmp/MyOrgList.json
 
+```
 

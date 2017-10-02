@@ -19,10 +19,12 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:apex:test:report -i <test run id>
 
 $ sfdx force:apex:test:report -i <test run id> -r junit
 
 $ sfdx force:apex:test:report -i <test run id> -c --json
 
+```
 

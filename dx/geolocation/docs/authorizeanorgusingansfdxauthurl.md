@@ -19,8 +19,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:auth:sfdxurl:store -f <path to sfdxAuthUrl file>
 
 $ sfdx force:auth:sfdxurl:store -f <path to sfdxAuthUrl file> -s -a MyDefaultOrg
 
+```
 

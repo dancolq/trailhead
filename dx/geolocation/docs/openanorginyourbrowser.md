@@ -21,6 +21,7 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:org:open
 
 $ sfdx force:org:open -u me@my.org
@@ -29,4 +30,5 @@ $ sfdx force:org:open -u MyTestOrg1
 
 $ sfdx force:org:open -r -p one/one.app
 
+```
 

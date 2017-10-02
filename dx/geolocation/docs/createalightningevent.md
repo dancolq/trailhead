@@ -18,8 +18,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:lightning:event:create -n myevent
 
 $ sfdx force:lightning:event:create -n myevent -d lightning
 
+```
 

@@ -21,8 +21,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:visualforce:page:create -n mypage -l mylabel
 
 $ sfdx force:visualforce:page:create -n mypage -l mylabel -d pages
 
+```
 

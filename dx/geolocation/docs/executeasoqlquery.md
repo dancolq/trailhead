@@ -15,10 +15,12 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:data:soql:query -q "SELECT Id, Name, Account.Name FROM Contact"
 
 $ sfdx force:data:soql:query -q "SELECT Id, Name FROM Account WHERE ShippingState IN ('CA', 'NY')"
 
 $ sfdx force:data:soql:query -q "SELECT Name FROM ApexTrigger" -t
 
+```
 

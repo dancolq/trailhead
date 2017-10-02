@@ -17,8 +17,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:data:tree:export -q "SELECT Id, Name, (SELECT Name, Address__c FROM Properties__r) FROM Broker__c"
 
 $ sfdx force:data:tree:export -q <path to file containing soql query> -x export-demo -d /tmp/sfdx-out -p
 
+```
 

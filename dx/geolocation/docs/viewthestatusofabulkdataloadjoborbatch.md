@@ -13,8 +13,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:data:bulk:status -i 750xx000000005sAAA
 
 $ sfdx force:data:bulk:status -i 750xx000000005sAAA -b 751xx000000005nAAA
 
+```
 

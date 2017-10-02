@@ -12,10 +12,12 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:user:permset:assign -n DreamHouse
 
 $ sfdx force:user:permset:assign -n DreamHouse -u me@my.org
 
 $ sfdx force:user:permset:assign -n DreamHouse -u TestOrg1
 
+```
 

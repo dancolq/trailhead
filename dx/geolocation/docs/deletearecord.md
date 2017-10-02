@@ -22,6 +22,7 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:data:record:delete -s Account -i 001D000000Kv3dl
 
 $ sfdx force:data:record:delete -s Account -w "Name=Acme"
@@ -30,4 +31,5 @@ $ sfdx force:data:record:delete -s Account -w "Name='Universal Containers'"
 
 $ sfdx force:data:record:delete -s Account -w "Name='Universal Containers' Phone='(123) 456-7890'"
 
+```
 

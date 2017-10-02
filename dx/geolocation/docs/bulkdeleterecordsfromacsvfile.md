@@ -20,8 +20,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:data:bulk:delete -s Account -f ./path/to/file.csv
 
 $ sfdx force:data:bulk:delete -s MyObject__c -f ./path/to/file.csv
 
+```
 

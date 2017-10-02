@@ -17,10 +17,12 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:lightning:test:run
 
 $ sfdx force:lightning:test:run -a tests -r human
 
 $ sfdx force:lightning:test:run -f config/myConfigFile.json -d testResultFolder
 
+```
 

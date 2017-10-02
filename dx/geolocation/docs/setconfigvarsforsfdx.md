@@ -13,8 +13,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:config:set defaultusername=me@my.org defaultdevhubusername=me@myhub.org
 
 $ sfdx force:config:set defaultdevhubusername=me@myhub.org -g
 
+```
 

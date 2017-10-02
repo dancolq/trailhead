@@ -18,8 +18,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:lightning:interface:create -n myinterface
 
 $ sfdx force:lightning:interface:create -n myinterface -d lightning
 
+```
 

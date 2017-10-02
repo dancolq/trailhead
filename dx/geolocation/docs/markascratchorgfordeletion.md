@@ -15,8 +15,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:org:delete -u me@my.org
 
 $ sfdx force:org:delete -u MyOrgAlias -p
 
+```
 

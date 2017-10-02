@@ -18,6 +18,8 @@ Option | Description
 
 __Exmples:__ 
 
+```
 To see a password that was previously generated, run "sfdx force:org:display".
 
+```
 

@@ -24,6 +24,7 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:package2:version:list --verbose --createdlastdays 3 --released --orderby PatchVersion
 
 $ sfdx force:package2:version:list --package2ids 0Ho000000000000,0Ho000000000001 --released --modifiedlastdays 0
@@ -34,4 +35,5 @@ $ sfdx force:package2:version:list --concise --modifiedlastdays 0
 
 $ sfdx force:package2:version:list --concise -c 3 -r
 
+```
 

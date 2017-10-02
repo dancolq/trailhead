@@ -13,8 +13,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:apex:log:list
 
 $ sfdx force:apex:log:list -u me@my.org
 
+```
 

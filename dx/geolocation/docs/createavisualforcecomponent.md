@@ -21,8 +21,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:visualforce:component:create -n mycomponent -l mylabel
 
 $ sfdx force:visualforce:component:create -n mycomponent -l mylabel -d components
 
+```
 

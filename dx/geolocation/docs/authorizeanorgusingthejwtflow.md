@@ -19,8 +19,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:auth:jwt:grant -u me@my.org -f <path to jwt key file> -i <oauth client id>
 
 $ sfdx force:auth:jwt:grant -u me@my.org -f <path to jwt key file> -i <oauth client id> -s -a MyDefaultOrg
 
+```
 

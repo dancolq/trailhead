@@ -17,6 +17,7 @@ Option | Description
 
 __Exmples:__ 
 
+```
 To convert Salesforce DX–formatted source into a format that you can deploy using Metadata API, run "sfdx force:source:convert". Then deploy the source using "sfdx force:mdapi:deploy".
 
 To convert Metadata API–formatted source into the Salesforce DX format, run "sfdx force:mdapi:convert".
@@ -25,4 +26,5 @@ $ sfdx force:source:convert -r <path to source>
 
 $ sfdx force:source:convert -r <path to source> -d <path to output dir>
 
+```
 

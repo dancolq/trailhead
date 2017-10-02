@@ -23,8 +23,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:data:bulk:upsert -s MyObject__c -f ./path/to/file.csv -i MyField__c
 
 $ sfdx force:data:bulk:upsert -s MyObject__c -f ./path/to/file.csv -i Id -w 2
 
+```
 

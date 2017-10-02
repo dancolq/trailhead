@@ -19,8 +19,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:source:open -f Property_Record_Page.flexipage-meta.xml
 
 $ sfdx force:source:open -f Property_Record_Page.flexipage-meta.xml -r
 
+```
 

@@ -14,6 +14,7 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:org:display
 
 $ sfdx force:org:display -u me@my.org
@@ -22,4 +23,5 @@ $ sfdx force:org:display -u TestOrg1 --json
 
 $ sfdx force:org:display -u TestOrg1 --json > tmp/MyOrgDesc.json
 
+```
 

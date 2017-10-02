@@ -14,6 +14,7 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:source:status -l
 
 $ sfdx force:source:status -r
@@ -22,4 +23,5 @@ $ sfdx force:source:status -a
 
 $ sfdx force:source:status -a -u me@my.org --json
 
+```
 

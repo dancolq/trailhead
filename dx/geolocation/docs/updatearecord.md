@@ -21,10 +21,12 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:data:record:update -s Account -i 001D000000Kv3dl -v "Name=NewAcme"
 
 $ sfdx force:data:record:update -s Account -w "Name='Old Acme'" -v "Name='New Acme'"
 
 $ sfdx force:data:record:update -s Account -i 001D000000Kv3dl -v "Name='Acme III' Website=www.example.com"
 
+```
 

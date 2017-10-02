@@ -19,8 +19,10 @@ Option | Description
 
 __Exmples:__ 
 
+```
 $ sfdx force:project:create --projectname mywork
 
 $ sfdx force:project:create --projectname mywork --defaultpackagedir myapp
 
+```
 

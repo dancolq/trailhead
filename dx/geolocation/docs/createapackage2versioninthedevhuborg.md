@@ -22,6 +22,7 @@ Option | Description
 
 __Exmples:__ 
 
+```
 To retrieve details about a package2 version create request, including status and package2 version id (05i), run "sfdx force:package2:version:create:get -i 08c...".
 
 To list package2 version creation requests in the org, run "sfdx force:package2:version:create:list".
@@ -30,4 +31,5 @@ $ sfdx force:package2:version:create --package2id 0Ho... --directory common --ta
 
 $ sfdx force:package2:version:create -i 0Ho... -d common
 
+```
 
